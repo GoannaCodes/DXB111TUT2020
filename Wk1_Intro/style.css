@@ -1,0 +1,32 @@
+*{
+  font-family: sans-serif;
+}
+h1, h2 {
+  color: darkgrey;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2{
+  font-size: 32px;
+  color: lightgrey;
+}
+
+a{
+/*text decoration= none removes underline*/
+/*   text-decoration: none; */
+  color: red;
+}
+
+/*id's are unique and can't be reused. Denoted with '#'*/
+#questions {
+/*gives element black background and white text*/
+  background-color: black;
+  color: white;
+}
+ /*class id's can be repeated, Denoted with '.'*/
+.existential{
+  font-weight: bold;
+}
