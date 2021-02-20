@@ -1,6 +1,13 @@
 # HTML Semantics
 Important for styling, maintaining code, accessibility and for search engine optimisation.
 
+## Linking CSS to HTML
+1. Create a blank doc named `style.css` in the same folder as HTML doc
+2. Add `<link rel="stylesheet" href="style.css">` to `<head>` of HTML
+
+After linking CSS, styles should be applied to webpage
+
+
 ## Frontmatter
 Contains `metadata` which is data about data. This content belongs in the `<head>` tag so that it is not displayed on webpage and for browser/SE use
 
