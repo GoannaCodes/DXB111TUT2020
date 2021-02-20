@@ -1,0 +1,33 @@
+ARC centre for creative industries + innovation
+Industry engagement + action agenda
+
+Creative Commons + Government Information
+
+Access to and re-use of materials produced by government and other publicly funded bodies has emerged as an important issue in recent years. Historically it has been cumbersome and expensive to provide access to government information. However digital technologies have now all but removed traditional barriers to widespread distribution of material to the public. As a result, consumer demand for access to government information has risen exponentially. In the era of Wikipedia, Amazon and Google, when the knowledge of the world is available at the click of a button, instant access to government information is not only desired by the public: it is expected. The question is no longer, ‘Should publicly-funded information be available to the public?’ but, ‘How should publicly-funded information be available to the public?’
+
+World-wide, governments are increasingly “…concerned with facilitating access to, and dissemination of, knowledge, particularly that which has been generated through the expenditure of public funds.”10 However there is still some question about how best to do this, and what rights of access should be provided. Driven in part by the emergence of Web 2.0 functionality, artists, researchers and scientists, as well as the general public and other government bodies, are no longer acting as passive consumers, but are instead seeking to reuse government material. 
+
+Access to knowledge is now recognised as “a key driver of social, cultural and economic development,”11 with tangible economic advantages to be gained by States who enable re-use of public sector information.
+
+For governments, the task now is to identify
+best-practice models to manage the release
+of government information in a way that
+is efficient, useful and understandable.
+Creative Commons has the potential to
+provide one such model.
+
+Creative Archive License Group
+
+A prominent example of a CC-style open licensing government initiative is the UK-based Creative Archive. The Archive is a repository of content licensed by the Creative Archive Licence Group that is available for sharing, watching, listening to and reuse by the general public. The Licence Group currently consists of the BBC, Channel 4, Open University, the British Film Institute, Teachers’ TV and the Museums, Libraries and Archives Council.
+
+Content on the Archive is made freely available to UK citizens for viewing and remixing for non-commercial purposes. The licence used by the Archive is closely modelled on the Creative Commons AttributionNoncommercial-ShareAlike licence. creativearchive.bbc.co.uk
+
+QSIC Licensing Project
+
+The Queensland Government’s Spatial Information Council (QSIC) was established to optimise the collection, management and use of Queensland’s spatial information resources. QSIC’s Government Information Licensing Framework (GILF) Project promotes better access to spatial information that is restricted under the current fragmented information licensing arrangements. The Project is seeking a simpler information licensing arrangement that can be standardised for all Queensland government information. It has found that 85 percent of Queensland government material is suitable for release under open access licences, and recommended that Creative Commons be adopted as the primary licensing system for the Queensland Government.
+qsic.qld.gov.au
+
+10 Fitzgerald, B, et al 2006 OAK Law Project Report No 1: Creating a Legal Framework for Copyright Management of Open Access Within the Australian Academic and Research Sector – Report for the Department of Education, Science and Training, p 3, www.oaklaw.qut.edu.au/files/ LawReport/OAK_Law_Report_v1.pdf
+11 Fitzgerald, B, et al 2006 OAK Law Project Report No 1, p ii, www.oaklaw.qut.edu.au/files/ LawReport/OAK_Law_Report_v1.pdf
+
+cci.edu.au | creativecommons.org.au

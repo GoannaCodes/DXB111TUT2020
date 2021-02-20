@@ -1,0 +1,24 @@
+/*
+    #171526 - dark navy blue; shadow
+    #495073 - light navy blue; highlight
+    #A68A38 - dark mustard yellow
+    #8C6E68 - dark peach
+    #400808 - burgendy 
+*/
+
+html {
+     background-color: antiquewhite;
+}
+
+aside {
+    color: #a68a38;
+}
+header {
+    color: firebrick;
+}
+
+footer{
+    color: darkslateblue;
+}
+
+/* for some reason is applying to all p's including aside section p's */
